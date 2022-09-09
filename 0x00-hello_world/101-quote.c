@@ -1,5 +1,7 @@
 #include <stdio.h>
-/**declaring funtions
+/**
+ *
+ * declaring funtions
  * main =entry
  * Return 1 if successful*/
 int main(void)

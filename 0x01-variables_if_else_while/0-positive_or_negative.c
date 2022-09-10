@@ -3,10 +3,9 @@
 #include <stdio.h>
 
 /**
- * main- prints whether the value is positive, zero or negative.
+ * main- assigns a random value n either positive, zero or negative.
  *
- * Description: using the main funtion
- *this program prints "programming is positive, negative, or 0"
+ * it executes, and printsthe value of n
  * Return 0 if successfull
  */
 int main(void)

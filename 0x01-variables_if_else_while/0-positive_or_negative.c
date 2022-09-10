@@ -8,7 +8,7 @@
  * it executes, and printsthe value of n
  * Return 0 if successfull
  */
-/* main - assigns a random number to int n everytime*/
+/* main - assigns a random number and return 0 if succesful*/
 int main(void)
 {
 int n;

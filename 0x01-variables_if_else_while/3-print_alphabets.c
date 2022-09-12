@@ -19,7 +19,7 @@ for (ch1 = 'A'; ch1 <= 'Z'; ch1++)
 putchar(ch);
 }
 {
-putchar1(ch1);
+putchar(ch1);
 }
 putchar('\n');
 return (0);

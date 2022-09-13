@@ -5,10 +5,9 @@
 /**
  * main- assigns a random value n either positive, zero or negative.
  *
- * it executes, and printsthe value of n
+ * Description: The program executes, and prints the value of n
  * Return 0 if successfull
  */
-/* main - assigns a random number and return 0 if succesful*/
 
 int main(void)
 {

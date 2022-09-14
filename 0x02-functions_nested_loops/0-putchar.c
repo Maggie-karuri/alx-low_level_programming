@@ -1,11 +1,13 @@
-#include <unistd.h> 
-#include "putchar.h"
+#include "main.h"
 
 /**
- * _putchar - writes the character c to stdout
- *The character to print
+ *main - prints Putchar
+ *
+ * Description: prints _putchar
+ *
  * Return: On success 0
  */
+
 int main(void)
 {
 _putchar('_');
